@@ -1,8 +1,8 @@
-# imap-to-discord
+# mail-to-discord
 
 ## docker image
 
-at `lefuturiste/imap-to-discord` on docker hub
+at `stoneset/mail-to-discord` on docker hub
 
 ## env vars
 
@@ -11,3 +11,5 @@ at `lefuturiste/imap-to-discord` on docker hub
 - IMAP_HOST
 - IMAP_PORT
 - DISCORD_WH_URL
+
+Forked from lefuturiste

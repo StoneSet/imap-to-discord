@@ -1,8 +1,8 @@
 {
-  "name": "imap_to_discord",
+  "name": "mail_to_discord",
   "version": "1.0.0",
   "description": "",
-  "main": "imap_to_discord.js",
+  "main": "mail_to_discord.js",
   "dependencies": {
     "axios": "^0.18.0",
     "dotenv": "^6.0.0",
@@ -17,11 +17,11 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node imap-to-discord.js"
+    "start": "node mail-to-discord.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lefuturiste/imap_to_discord.git"
+    "url": "git+https://github.com/StoneSet/mail-to-discord.git"
   },
   "keywords": [
     "imap",
@@ -33,7 +33,7 @@
   "author": "lefuturiste <contact@lefuturiste.fr>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lefuturiste/imap_to_discord/issues"
+    "url": "https://github.com/StoneSet/mail-to-discord/issues"
   },
-  "homepage": "https://github.com/lefuturiste/imap_to_discord#readme"
+  "homepage": "https://github.com/StoneSet/mail-to-discord#readme"
 }

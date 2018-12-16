@@ -1,5 +1,5 @@
 FROM node
-LABEL maintainer="spamfree@matthieubessat.fr"
+LABEL maintainer="contact@thingmill.fr"
 ADD . /app
 WORKDIR /app
 RUN npm install
